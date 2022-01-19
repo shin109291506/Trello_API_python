@@ -11,5 +11,5 @@ Trello_API文件 \
 
 
 # Install
-pip install requests \
-json
+`pip install requests` \
+`json`
