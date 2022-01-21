@@ -6,7 +6,7 @@ import json
 key = 'YOUR_KEY_HERE'
 token = 'YOUR_TOKEN_HERE'
 
-# type : list
+# type : str
 board = "YOUR_BOARD_HERE"
 
 # 各種方法，詳見Trello API文件
